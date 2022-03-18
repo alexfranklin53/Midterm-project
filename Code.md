@@ -31,3 +31,5 @@ display.innerHTML = displayHTML
 }
 
 </script>
+        
+[return to home page](./README.md)
