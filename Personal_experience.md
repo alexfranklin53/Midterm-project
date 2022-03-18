@@ -6,8 +6,7 @@
 * Ample experience in working with partner forces such as the *Kuwaiti Army, Hungarian Army, and Kurdish Peshmerga.*
 * Long hours performing stressful work with little rest.
 
-# On the job 
-![On the job](IMG_0799.jpg)
+[On the job](IMG_0799.jpg)
 
 
 
