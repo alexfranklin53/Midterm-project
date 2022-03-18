@@ -6,7 +6,7 @@
 * Ample experience in working with partner forces such as the *Kuwaiti Army, Hungarian Army, and Kurdish Peshmerga.*
 * Long hours performing stressful work with little rest.
 
-[On the job](IMG_0799.jpg)
+[On the job photo](https://github.com/alexfranklin53/Midterm-project/blob/main/Screen%20Shot%202022-01-31%20at%206.39.47%20PM%20(2).png)
 
 
 
