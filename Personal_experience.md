@@ -11,4 +11,6 @@
 * Classroom teachings with html
 * Classroom teachings with javascript
 
+* [LinkdIn](https://www.linkedin.com/in/alex-franklin-527a4020a)
+
 [return to home page](./README.md)
